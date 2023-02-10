@@ -1,0 +1,11 @@
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/BookCatalog.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/ui/Main.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/LoanAlreadyExistsException.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/utilities/LoanStatus.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/Loan.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/utilities/GenderType.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/Customer.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/LoanNotFoundException.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/Material.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/Book.java
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java/se/yrgo/models/BookNotFoundException.java

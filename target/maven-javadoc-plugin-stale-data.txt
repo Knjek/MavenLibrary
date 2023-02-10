@@ -1,0 +1,51 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'11'
+-sourcepath
+'/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MavenLibrary 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'MavenLibrary 1.0-SNAPSHOT API'
+se.yrgo.models
+se.yrgo.ui
+se.yrgo.utilities
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/src/main/java = 1675160027898
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/allclasses-index.html = 1675937171750
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/allclasses.html = 1675937171771
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/allpackages-index.html = 1675937171756
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/constant-values.html = 1675937171479
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/deprecated-list.html = 1675937171765
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/element-list = 1675937171395
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/index-all.html = 1675937171740
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/index.html = 1675937171781
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/member-search-index.js = 1675937171731
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/member-search-index.zip = 1675937171735
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/overview-summary.html = 1675937171788
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/overview-tree.html = 1675937171676
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/package-search-index.js = 1675937171704
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/package-search-index.zip = 1675937171717
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/script.js = 1675937171801
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/search.js = 1675937171806
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/serialized-form.html = 1675937171492
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/stylesheet.css = 1675937171795
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/type-search-index.js = 1675937171721
+/mnt/c/Users/User/IdeaProjects/MavenLibrary/target/site/apidocs/type-search-index.zip = 1675937171725
